@@ -1,0 +1,235 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PeepSo Blog Posts\n"
+"POT-Creation-Date: 2016-07-01 17:56+0100\n"
+"PO-Revision-Date: 2016-07-01 17:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: blogposts.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: blogposts.php:173 blogposts.php:192 blogposts.php:210 blogposts.php:578
+#: templates/blogposts/blogposts.php:9
+msgid "Blog Posts"
+msgstr ""
+
+#: blogposts.php:569
+msgid "plugin requires the PeepSo plugin to be installed and activated."
+msgstr ""
+
+#: blogposts.php:580
+msgid "Example Config Tab"
+msgstr ""
+
+#: classes/configsectionblogposts.php:52
+msgid "Show \"Blog Posts\" tab in user profiles"
+msgstr ""
+
+#: classes/configsectionblogposts.php:55
+msgid "Enabled"
+msgstr ""
+
+#: classes/configsectionblogposts.php:65
+msgid "Post content"
+msgstr ""
+
+#: classes/configsectionblogposts.php:75
+msgid "Content length"
+msgstr ""
+
+#: classes/configsectionblogposts.php:82
+msgid "above content"
+msgstr ""
+
+#: classes/configsectionblogposts.php:83
+msgid "below content"
+msgstr ""
+
+#: classes/configsectionblogposts.php:84
+msgid "hidden"
+msgstr ""
+
+#: classes/configsectionblogposts.php:89
+msgid "Show date"
+msgstr ""
+
+#: classes/configsectionblogposts.php:99
+#: classes/configsectionblogposts.php:106
+msgid "Two column layout"
+msgstr ""
+
+#: classes/configsectionblogposts.php:116
+msgid "Box height (px)"
+msgstr ""
+
+#: classes/configsectionblogposts.php:123
+msgid ""
+"Recommended - maintains the layout in case of content exceeding size of the "
+"box"
+msgstr ""
+
+#: classes/configsectionblogposts.php:126
+msgid "Clip long content"
+msgstr ""
+
+#: classes/configsectionblogposts.php:136
+#: classes/configsectionblogposts.php:144
+msgid "Featured images"
+msgstr ""
+
+#: classes/configsectionblogposts.php:152
+#: classes/configsectionblogposts.php:192
+msgid "top"
+msgstr ""
+
+#: classes/configsectionblogposts.php:153
+#: classes/configsectionblogposts.php:176
+msgid "left"
+msgstr ""
+
+#: classes/configsectionblogposts.php:154
+#: classes/configsectionblogposts.php:177
+msgid "right"
+msgstr ""
+
+#: classes/configsectionblogposts.php:159
+msgid "Position"
+msgstr ""
+
+#: classes/configsectionblogposts.php:166
+msgid "The image will be a square if not placed on top."
+msgstr ""
+
+#: classes/configsectionblogposts.php:169
+msgid "Height (px)"
+msgstr ""
+
+#: classes/configsectionblogposts.php:175
+#: classes/configsectionblogposts.php:191
+msgid "center"
+msgstr ""
+
+#: classes/configsectionblogposts.php:184
+msgid "Horizontal align"
+msgstr ""
+
+#: classes/configsectionblogposts.php:193
+msgid "bottom"
+msgstr ""
+
+#: classes/configsectionblogposts.php:200
+msgid "Vertical align"
+msgstr ""
+
+#: classes/configsectionblogposts.php:204
+msgid ""
+"Will display an empty \"placeholder\" box if an image is not found. "
+"Recommended to maintain the layout in case of missing images."
+msgstr ""
+
+#: classes/configsectionblogposts.php:207
+msgid "Placeholder"
+msgstr ""
+
+#: classes/configsectionblogposts.php:215
+msgid "Advanced"
+msgstr ""
+
+#: classes/configsectionblogposts.php:222
+msgid "Use template overrides"
+msgstr ""
+
+#: classes/configsectionblogposts.php:233
+#, php-format
+msgid ""
+"\n"
+"You can now create your own template files.<br/>\n"
+"Please remember, that you are doing this at <b>your own resposibility</b> "
+"and that some features and options might stop working.<br>\n"
+"The original files can be found in the \"templates\" directory of this "
+"plugin.\n"
+"<br><br>\n"
+"\n"
+"You have to create the files in these exact locations:<br/><pre>Full width "
+"(single column view):\n"
+"%s\n"
+"\n"
+"Half width (two column view):\n"
+"%s</pre>"
+msgstr ""
+
+#: classes/configsectionblogposts.php:249
+msgid "Profiles Integration"
+msgstr ""
+
+#: classes/configsectionblogposts.php:274
+msgid "Plugin Information"
+msgstr ""
+
+#: classes/configsectionblogposts.php:285
+msgid "Enable Activity Stream Integration"
+msgstr ""
+
+#: classes/configsectionblogposts.php:302
+msgid "Default privacy"
+msgstr ""
+
+#: classes/configsectionblogposts.php:308
+msgid "Activity Stream Integration"
+msgstr ""
+
+#: classes/configsectionblogposts.php:316
+msgid "Enable the post types you want to be handled by this integration."
+msgstr ""
+
+#: classes/configsectionblogposts.php:317
+msgid "Only post types presently registered are visible."
+msgstr ""
+
+#: classes/configsectionblogposts.php:318
+msgid ""
+"You can override the <i>action text</i> for each post type  with custom "
+"wording."
+msgstr ""
+
+#: classes/configsectionblogposts.php:352
+msgid "Activity Stream Integration - Post types"
+msgstr ""
+
+#: templates/blogposts/blogposts.php:15
+msgid "Newest first"
+msgstr ""
+
+#: templates/blogposts/blogposts.php:16
+msgid "Oldest first"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PeepSo Blog Posts"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://mattsplugins.io"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Display a list of user Blog Posts in their profile and post to Activity when "
+"a new post is published"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Matt Jaworski"
+msgstr ""

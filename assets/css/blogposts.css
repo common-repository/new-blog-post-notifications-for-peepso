@@ -1,0 +1,46 @@
+.ps-blogposts-main h2 {
+    clear:both;
+}
+
+.ps-blogposts-featured-image {
+    background-size: cover !important;
+    width: 100%;
+}
+
+.ps-blogposts-main {
+    font-size: 12px;
+}
+
+.ps-blogposts-date {
+    opacity: 0.7;
+}
+
+.ps-blogposts-container-inside {
+    margin:0px auto 40px auto;
+}
+
+
+
+/* * * TWO COLUMN LAYOUT * * */
+
+.ps-blogposts-container-half {
+    float: left;
+    margin:0;
+    width: 50%;
+}
+
+.ps-blogposts-container-half-inside {
+    margin:0px;
+}
+
+.ps-blogposts-half-main {
+    margin: 0px 5px 0px 5px;
+}
+
+.ps-blogposts-featured-image-left {
+    margin-right:5px;
+}
+
+.ps-blogposts-featured-image-right{
+    margin-left:5px;
+}
